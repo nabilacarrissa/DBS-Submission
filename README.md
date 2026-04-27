@@ -22,7 +22,7 @@ Periode analisis mencakup data pada rentang **2016–2018**.
 
 ---
 
-## ❓ Pertanyaan Bisnis
+## Pertanyaan Bisnis
 
 1. Bagaimana distribusi pelanggan berdasarkan state dan kontribusinya terhadap total pelanggan selama periode 2016–2018?
 2. Bagaimana distribusi pelanggan berdasarkan kota dan kota mana saja yang memiliki jumlah pelanggan tertinggi selama periode 2016–2018?
